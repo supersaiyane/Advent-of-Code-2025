@@ -1,6 +1,6 @@
 from pathlib import Path
-from puzzle import solve_part1
-from puzzle import solve_part2
+from puzzle1 import solve_part1
+from puzzle2 import solve_part2
 
 
 def read_input();
